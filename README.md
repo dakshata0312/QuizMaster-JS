@@ -17,5 +17,5 @@ Through this project, I implemented several key software engineering concepts:
 3. **Event Driven Programming:** Using listeners to trigger complex functions like `startQuiz()` and `showResult()`.
 4. **DOM Clearing:** Using `innerHTML = ""` to ensure a clean state between different question views.
 
-## 🔧 How to Run
+## 🔧 How to Run..
 1. Clone the repository:```bashgit clone [https://github.com/dakshata0312/QuizMaster-JS.git](https://github.com/dakshata0312/QuizMaster-JS.git)
